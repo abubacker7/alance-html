@@ -1,0 +1,63 @@
+.menu li{
+	list-style-type: none;
+}
+.top-bar ul li{
+	display: inline;
+	padding-right: 20px;
+}
+.top-bar-left ul{
+	display: inline;
+}
+.top-bar-right ul{
+	display: inline;
+}
+.menu{
+	display: inline;
+	padding-right: 180px;
+}
+.top-left-menu{
+	display: inline;
+}
+.top-bar-content{
+	display: inline;
+}
+.top-right-menu{
+	display: inline;
+}
+.content{
+	display: inline;
+	padding-right: 180px;
+}
+.top-bar{
+	background-color: ghostwhite;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.site-branding{
+	display: inline;
+}
+.menu li{
+	display: inline;
+}
+.primary-nav{
+	display: inline;
+}
+.secondary-nav{
+	display: inline;
+}
+.site-branding img{
+	padding-left: 30px;
+	padding-right: 100px;
+}
+.primary-nav ul li a{
+	text-decoration: none;
+	padding-right: 30px;
+}
+.secondary-nav ul {
+	padding-left: 70px;
+}
+.secondary-nav ul li a{
+	padding-right: 30px;
+}
